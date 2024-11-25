@@ -1,0 +1,25 @@
+Câu hỏi 1: Thành phần nào sau đây KHÔNG phải là một thành phần giao diện người dùng (UI) trong Android?
+TextView
+Button
+Service
+ImageView
+Answer: Service
+---
+Câu hỏi 2: Layout nào thường được sử dụng để sắp xếp các thành phần UI theo chiều dọc hoặc chiều ngang?
+RelativeLayout
+LinearLayout
+FrameLayout
+ConstraintLayout
+Answer: LinearLayout
+---
+Câu hỏi : Intent trong Android được sử dụng để làm gì?
+Hiển thị thông báo cho người dùng
+Lưu trữ dữ liệu
+Khởi chạy Activity
+Xử lý sự kiện chạm
+Answer: Khởi chạy Activity
+---
+Câu hỏi 4: Vòng đời của một Activity bắt đầu bằng phương thức nào?
+onStart()
+onResume()
+Answer: onStart()
