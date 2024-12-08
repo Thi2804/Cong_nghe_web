@@ -8,6 +8,8 @@
       <sourceFolder url="file://$MODULE_DIR$/BTVN(7-12)/tests" isTestSource="true" packagePrefix="Tests\" />
       <sourceFolder url="file://$MODULE_DIR$/BTVN(7-12)/tests/Feature" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/BTVN(7-12)/tests/Unit" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/projcetpost/tests/Feature" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/projcetpost/tests/Unit" isTestSource="true" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
