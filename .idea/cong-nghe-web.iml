@@ -10,6 +10,17 @@
       <sourceFolder url="file://$MODULE_DIR$/BTVN(7-12)/tests/Unit" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/projcetpost/tests/Feature" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/projcetpost/tests/Unit" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/BTVN(11-12)/demolaravel/app" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/BTVN(11-12)/demolaravel/database/factories" isTestSource="false" packagePrefix="Database\Factories\" />
+      <sourceFolder url="file://$MODULE_DIR$/BTVN(11-12)/demolaravel/database/seeders" isTestSource="false" packagePrefix="Database\Seeders\" />
+      <sourceFolder url="file://$MODULE_DIR$/BTVN(11-12)/demolaravel/tests" isTestSource="true" packagePrefix="Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/BTVN(11-12)/demolaravel/tests/Feature" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/BTVN(11-12)/demolaravel/tests/Unit" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/BTTH/BTH3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BTTH/BTH4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BTVN/BTVN(11-12)/demolaravel" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BTVN/BTVN(7-12)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BTVN/BTVN(9-12)" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
